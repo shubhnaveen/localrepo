@@ -1,2 +1,2 @@
 this is new file for reset branch
-
+this is valid
